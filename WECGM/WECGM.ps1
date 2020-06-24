@@ -30,9 +30,9 @@
     Version Control
     ===============
     Ver #: 0.0.2
-    Modified By: Kieran Bhardwaj
+    Modified By: Kieran B
     Date Modified: 02/06/2020		
-    Details: kieran.bhardwaj@microsoft.com	 
+    Details: kieb@microsoft.com	 
     ===============
     End Version Control
 #>
