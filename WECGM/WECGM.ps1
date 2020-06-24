@@ -1,7 +1,4 @@
 ﻿<#
-    .COPYRIGHT
-     Copyright (c) Microsoft. All Rights Reserved.     Information Contained Herein is Proprietary and Confidential.     Microsoft makes no warranties, express or implied.     This code can only be used if authorized by Microsoft.   
-    
     .SYNOPSIS
         This script allocates machine objects in a given OU to groups in a given OU with the same base name using the last letter of the computed hash
 
