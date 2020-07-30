@@ -1,2 +1,2 @@
 #!/bin/sh
-podman start multicast
+podman start multicastrelay
